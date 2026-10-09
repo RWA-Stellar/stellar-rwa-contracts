@@ -98,8 +98,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for local Soroban setup. Please keep
 
 ## Sister repos
 
-- **Web app:** https://github.com/RWA-ToolKit/stellar-rwa-web
-- **API + Docs:** https://github.com/RWA-ToolKit/stellar-rwa-api-docs
+- **Web app:** [https://github.com/RWA-ToolKit/stellar-rwa-web](https://github.com/RWA-Stellar/stellar-rwa-web)
+- **API + Docs:** [https://github.com/RWA-ToolKit/stellar-rwa-api-docs](https://github.com/RWA-Stellar/stellar-rwa-api-docs)
 
 ## License
 
